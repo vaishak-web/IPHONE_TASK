@@ -1,8 +1,8 @@
 import ProductInput from './components/ProductInput';
-
+import './App.css';
 function App() {
   return (
-    <div className="app">
+    <div className="App-header">
       <ProductInput />
     </div>
   );
